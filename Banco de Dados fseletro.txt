@@ -50,7 +50,12 @@ INSERT INTO pedidos (nomeCliente, endereco, telefone, produto, valorUnitario, qu
 VALUES ('Pedro José Santos Cruz', 'Rua Das Oliveiras 33', '(11)93540-3327', 'Micro-ondas Consul 32 Litros Inox 220v', 1719.9, 1, 1719.9),         
 ('Marcia Pereira da Costa', 'Rua Jeronimo Abreu 453', '(11)98867-4533', 'Lava-Louça Eletrolux Inox com 10 Serviços, 06 Programas de Lavagem e Painel Blue Touch', 2799, 1, 2799),
 ('Edik Carlos Gomes Ferreira', 'Rua Cachoeira Paulista 34', '(11)97312-8870', 'Geladeira Frost Free Consul Prata 340 litros', 2510, 2, 5020),
-('Helena de Jesus Ferreira', 'Rua Ubirajara Viana 150', '(11)99112-5656', 'Micro-ondas 25 Litros Espelhado Philco 220v', 1000, 1, 1000);
-
-
+('Helena de Jesus Ferreira', 'Rua Ubirajara Viana 150', '(11)99112-5656', 'Micro-ondas 25 Litros Espelhado Philco 220v', 1000, 1, 1000),
+('José Alison', 'Avenida BD.do Sul 454', '(11)98878-0021', 'Micro-ondas Eletrolux 20L Branco', 510, 3, 1530),
+('Simone de SOuza', 'Rua Mamão Preto 35', '(11)96673-1121', 'Lava-Louça Eletrolux Inox com 10 Serviços, 06 Programas de Lavagem e Painel Blue Touch', 2799, 1, 2799),
+('Claudio Fico', 'Rua Caxias 21', '(21)98623-6756', 'Lava-Louças Compacta 8 Serviços Branca 127v Brastemp', 1040, 2, 2080),
+('Jacqueline Jesus', 'Rua Rio Pardo 333', '(11)98767-4432', 'Lavadora de Roupas Brastemp 11Kg com Turbo Perfomance Branca', 1250, 1, 1250),
+('Tomas da Silva', 'Avenida São Tomé', '(11)98788-2231', 'Fogão 4 Bocas Consul Inox com Mesa de Vidro', 1099, 1, 1099),
+('Marcelo Oliveira', 'Rua Mar Vermelho 32', '(12)98788-1754', 'Fogão de Piso 4 Bocas Monaco com Acendimento Automatico', 519, 1, 519),
+('Bianca Rondon', 'Rua Rio Feio 627', '(11)98344-1989', 'Lavadora de Roupas Philco Inverter 12Kg', 1999, 1, 1999);
 
