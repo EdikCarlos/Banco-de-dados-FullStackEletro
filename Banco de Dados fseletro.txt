@@ -4,12 +4,13 @@ use fseletro //usar a database
 
 //criar a tabela produtos
 CREATE TABLE produtos (
-idproduto INT AUTO_INCREMENT PRIMARY KEY,
+idproduto INT AUTO_INCREMENT,
 categoria VARCHAR(255),
 descricao VARCHAR(255),                    
 imagem VARCHAR(255),
 precoinicial FLOAT,
-precofinal FLOAT
+precofinal FLOAT,
+PRIMARY KEY (idproduto)
 );
 
 
